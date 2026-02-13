@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/supay",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "supay",
+    "name": "Supay: The Andean Lord of Death",
+    "aliases": [],
+    "category": "DEMON",
+    "subcategory": "Unknown",
+    "tags": [
+      "sometimes-associated-with-underground-or-nocturnal-creatures-like-bats-and-serpents"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Supay (also spelled Çupay, Zupay, or Supai) is one of the most significant supernatural entities in Andean mythology, serving as the god of death and ruler of the underworld realm known as Ukhu Pacha.",
+      "full": "Supay (also spelled Çupay, Zupay, or Supai) is one of the most significant supernatural entities in Andean mythology, serving as the god of death and ruler of the underworld realm known as Ukhu Pacha. Originally a complex deity in the Inca religious pantheon, Supay's nature was fundamentally altered during the Spanish colonial period when Catholic missionaries reinterpreted him as equivalent to the Christian devil. This transformation represents one of the most dramatic examples of religious syncretism in South American history, where an indigenous deity was demonized to facilitate conversion efforts. The pre-Columbian understanding of Supay was far more nuanced than the later colonial interpretation. In traditional Andean cosmology, Supay was not inherently evil but rather a necessary force governing death, the underworld, and mineral wealth. He represented the balance between life and death, and was respected rather than feared in the absolute sense. The Inca worldview divided the cosmos into three realms: Hanan Pacha (the upper world), Kay Pacha (the middle world of living humans), and Ukhu Pacha (the inner world or underworld), with Supay presiding over the latter. Today, belief in Supay persists throughout the Andean region, particularly among mining communities in Bolivia, Peru, and northern Chile, where he is simultaneously feared as a dangerous entity and propitiated for protection and mineral wealth."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "DEMON",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
+}
